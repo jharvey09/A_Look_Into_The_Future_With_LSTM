@@ -81,7 +81,7 @@ In this assignment, I will use tools such as *deep learning recurrent neural net
 ![image](https://user-images.githubusercontent.com/80294571/131237723-fff69ffd-fe3d-427e-899c-632e3395e1be.png)
 
 ## Conclusion:
-In preparation for these models, I arrived at three questions that would make the cohesive connection between data, predictions. First thing I asked myself was, ***"Which model would have the lowest loss?"*** Next, I compiled the information to see, ***"Which model tracks the actual values better over time?"*** I had to think the best way to figure this out was to know, ***"Which window size works the best for the model?"***
+In preparation for these models, I arrived at three questions that would make the cohesive connection between data, predictions. First thing I asked myself was, ***"Which model would have the lowest loss?"***  Next, I compiled the information to see, ***"Which model tracks the actual values better over time?"***  I had to think the best way to figure this out was to know, ***"Which window size works the best for the model?"***
 
 After comparing both models *(Fear and Greed Index, Closing Prices)* using a 10-day window, It would be concise in pointing out that the Closing Prices model would appear to be the better model.
 *Closing Prices Loss: 0.0540 | Fear & Greed Index Loss: 0.1256*
