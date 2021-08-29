@@ -1,6 +1,7 @@
 # A Look Into The Future With LSTM
 ![pexels-tara-winstead-8386440](https://user-images.githubusercontent.com/80294571/131234808-158a24ba-6e73-4a9f-9a2e-0df85aa64612.jpg)
-Photo by Tara Winstead from Pexels
+*Photo by **Tara Winstead** from Pexels*
+
 In this assignment, I will use *deep learning recurrent neural networks* to model bitcoin closing prices. One model will use the FNG indicators to predict the closing price while the second model will use a window of closing prices to predict the nth closing price. One example is the Crypto Fear & Greed Index (FNG)
 
 ## Preparing The Data: (Closing Predictor)
@@ -21,7 +22,7 @@ In this assignment, I will use *deep learning recurrent neural networks* to mode
 
 5. Predict Closing Prices using a window size 10 of previous closing prices. For different performance changes, use numbers from 1 - 10. For this model, I chose to used a window size of 7.
 6. Use 70% of the data for training and the remaining for testing.
-7. Use MinMaxScaler to scale data between 0 and 1
+7. Use *MinMaxScaler* to scale data between 0 and 1
 8. Reshape the features for the model
 
 
@@ -60,7 +61,7 @@ In this assignment, I will use *deep learning recurrent neural networks* to mode
 
 ![image](https://user-images.githubusercontent.com/80294571/131237643-d4db7d44-4007-479b-81af-91b6a5a01401.png)
 
-3. Create DataFrame of Realand Predicited values
+3. Create DataFrame of Real and Predicited values
 
 ![image](https://user-images.githubusercontent.com/80294571/131237683-4aaafa20-0667-434d-98c7-4fc03d34b384.png)
 
@@ -69,7 +70,7 @@ In this assignment, I will use *deep learning recurrent neural networks* to mode
 ![image](https://user-images.githubusercontent.com/80294571/131237723-fff69ffd-fe3d-427e-899c-632e3395e1be.png)
 
 ## Conclusion:
-In conclusion after comparing the use of a 10 day window of Bitcoin closing prices model to 10 day window of Bitcoin fear and greed index values model.: My personal conclusion is that he the Closing Prices model appears to be better.
-Closing Prices Loss: 0.0540. Fear & Greed Loss: 0.1256.
-Tracking Over Extended Period: The model based on closing prices appears to track the actual values better over time than does the model based on the Fear & Greed Index. Comparing the charts for the two models of Real vs. Predicted values over time, the predictions based on Closing Prices more closely reflect the true values than do the predictions based on the Fear & Greed Index.
+In conclusion after comparing the use of a 10 day window of Bitcoin closing prices model to 10 day window of Bitcoin fear and greed index values model. in conclusion my opinion is that the Closing Prices model appears to be better.
+*Closing Prices Loss: 0.0540. Fear & Greed Loss: 0.1256.*
+**Tracking Over Extended Period**: The model based on closing prices appears to track the actual values better over time than does the model based on the Fear & Greed Index. Comparing the charts for the two models of Real vs. Predicted values over time, the predictions based on Closing Prices more closely reflect the true values than do the predictions based on the Fear & Greed Index.
 
