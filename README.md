@@ -48,7 +48,7 @@ In this assignment, I will use tools such as *deep learning recurrent neural net
 
 3. Plot the real versus predicted value in a line chart
 
-4. ![image](https://user-images.githubusercontent.com/80294571/131237403-587f79d5-344f-4cac-b3a4-0e417db162b3.png)
+![image](https://user-images.githubusercontent.com/80294571/131237403-587f79d5-344f-4cac-b3a4-0e417db162b3.png)
 
 
 ## Fear and Greed Predictor:
