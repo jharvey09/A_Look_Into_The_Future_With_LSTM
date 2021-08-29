@@ -1,2 +1,7 @@
-# A_Look_Into_The_Future_With_LSTM
-In this project i will use tools such as Deep Learning by incorporating sentiment from social media and news articles to help guide trading predictions. One example is the Crypto Fear &amp; Greed Index (FNG)
+# A Look Into The Future With LSTM
+![pexels-tara-winstead-8386440](https://user-images.githubusercontent.com/80294571/131234808-158a24ba-6e73-4a9f-9a2e-0df85aa64612.jpg)
+Photo by Tara Winstead from Pexels
+
+
+
+
