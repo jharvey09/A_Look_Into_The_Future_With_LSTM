@@ -3,6 +3,13 @@
 *Photo by **_Tara Winstead_** from Pexels*
 
 In this assignment, I will use tools such as *deep learning recurrent neural networks* to model bitcoin's closing prices. One model will use the FNG indicators to predict the closing price, and the second model will use a window of closing prices to predict the nth closing price. One example is the Crypto Fear & Greed Index (FNG)
+ 
+## Table of Contents:
+[Preparing The Data](https://github.com/jharvey09/A_Look_Into_The_Future_With_LSTM#preparing-the-data-closing-predictor)
+[Build and Train LSTM RNN](https://github.com/jharvey09/A_Look_Into_The_Future_With_LSTM#build-and-train-the-lstm-rnn)
+[Model Performance](https://github.com/jharvey09/A_Look_Into_The_Future_With_LSTM#model-performance)
+[Fear and Greed Predictior](https://github.com/jharvey09/A_Look_Into_The_Future_With_LSTM#fear-and-greed-predictor)
+[Conclusion](https://github.com/jharvey09/A_Look_Into_The_Future_With_LSTM#conclusion)
 
 ## Preparing The Data: (Closing Predictor)
 1. Set the random seed for reproducibility
