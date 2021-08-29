@@ -6,9 +6,13 @@ In this assignment, I will use tools such as *deep learning recurrent neural net
  
 ## Table of Contents:
 [Preparing The Data](https://github.com/jharvey09/A_Look_Into_The_Future_With_LSTM#preparing-the-data-closing-predictor)
+
 [Build and Train LSTM RNN](https://github.com/jharvey09/A_Look_Into_The_Future_With_LSTM#build-and-train-the-lstm-rnn)
+
 [Model Performance](https://github.com/jharvey09/A_Look_Into_The_Future_With_LSTM#model-performance)
+
 [Fear and Greed Predictior](https://github.com/jharvey09/A_Look_Into_The_Future_With_LSTM#fear-and-greed-predictor)
+
 [Conclusion](https://github.com/jharvey09/A_Look_Into_The_Future_With_LSTM#conclusion)
 
 ## Preparing The Data: (Closing Predictor)
