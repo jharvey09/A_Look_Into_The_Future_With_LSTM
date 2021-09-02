@@ -88,5 +88,5 @@ After comparing both models *(Fear and Greed Index, Closing Prices)* using a 10-
 
 **Elapsed Tracking Data:**
 
-The model based on closing prices had appeared to track the "true" values better than the model based on the Fear and Greed Index. After comparing the charts for the two models displaying Real vs. Predicted values, over the elapsed time, the predictions based on the Closing Prices model reflected more of a "true" value than the model based on the Fear and Greed Index. Using a smaller window size on both models gave better predictions, but the "Closing Price" model was the closest to real or "true" value.
+The model based on closing prices had appeared to track the "true" values better than the model based on the Fear and Greed Index. After comparing the charts for the two models displaying Real vs. Predicted values, over the elapsed time, the predictions based on the Closing Prices model reflected more of a "true" value than the model based on the Fear and Greed Index. Using a smaller window size on both models gave better predictions, but the *"Closing Price"* model was the closest to real or "true" value.
 
